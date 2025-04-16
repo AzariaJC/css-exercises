@@ -1,12 +1,14 @@
 div {
     color: white;
-    background-color: black
+    background-color: red
 }
 div {
     font-size: large;
+    text-align: center;
+    font-weight: bold;
 }
 
-p {
+/*p {
     color: white;
     background-color: forestgreen;
 }
@@ -21,5 +23,5 @@ button {
     background-color:darkgoldenrod;
     font-size: small;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
+}*/
 /*I'm not sure of the actual fonts used, so I just chose whatever I think is closest */
