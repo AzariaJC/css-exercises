@@ -1,6 +1,6 @@
 .Number-1 {
     color:black;
-    background-color: indianred;
+    background-color: rgb(255, 167, 167);
 }
 
 #Number-2 {
@@ -10,18 +10,18 @@
 
 .Number-3 {
     color:black;
-    background-color: indianred;
+    background-color: rgb(255, 167, 167);
     font-size: 25px;
 }
 
 #Number-4 {
     color: black;
-    background-color: rgb(72, 234, 72);
+    background-color: hsl(120, 100%, 75%);
     font-size: 22px;
     font-weight: bolder;
 }
 
 .Number-5 {
     color:black;
-    background-color: indianred;
+    background-color: rgb(255, 167, 167);
 }
